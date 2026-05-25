@@ -1,7 +1,0 @@
-id = "serendipity"
-name = "Serendipity"
-version = "1.0.0"
-schema_version = 1
-authors = ["Micheal Andreuzza <michael@andreuzza.com>"]
-description = "Serendipity theme for Zed — Midnight, Morning, and Sunset"
-repository = "https://github.com/Serendipity-Theme/zed"

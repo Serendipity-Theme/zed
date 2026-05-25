@@ -1,23 +1,8 @@
-![Serendipity](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
+# Serendipity for Zed — moved
 
-# Serendipity for Zed
+This repository is deprecated. Do not install from here.
 
-Elegant, minimal, and clean color palette for your tools.
+- **Install:** [zed.dev/extensions/serendipity](https://zed.dev/extensions/serendipity)
+- **Source:** [meocoder31099/Serendipity-Theme-Zed](https://github.com/meocoder31099/Serendipity-Theme-Zed)
 
-See other interfaces at the [official website](https://www.michaelandreuzza.com/vscode/serendipity/).
-
-## Available themes
-
-- **Midnight** — dark
-- **Morning** — light
-- **Sunset** — dark
-
-## Installation
-
-Install as a dev extension in Zed (**zed: extensions**).
-
-Available files: `themes/serendipity-midnight.json`, `themes/serendipity-morning.json`, `themes/serendipity-sunset.json`, `extension.toml`.
-
-## Created by
-
-[Micheal Andreuzza](https://github.com/michael-andreuzza)
+Theme files are generated locally under `projects/zed/` when you run `python3 vs-code/scripts/generate-ports.py`. Open PRs against the source repo above.
